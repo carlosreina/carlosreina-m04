@@ -1,0 +1,173 @@
+.header {
+    position: sticky;
+	position: -webkit-sticky;
+	top: 0px;
+	background-color: #fff;
+	overflow: hidden;
+}
+
+.list-inline {
+	list-style: none;
+	margin-left: -0.5em;
+	margin-right: -0.5em;
+	padding: 0;
+}
+
+.list-inline > li {
+	display: inline-block;
+	margin-left: 0.5em;
+	margin-right: 0.5em;
+}
+
+.list-inline > li:before {
+	content: "\200B"; /* 1 */
+	position: absolute; /* 2 */
+}
+
+/* unvisited link */
+.header a:link {
+	color: black;
+	text-decoration: none;
+  }
+  
+/* visited link */
+.header a:visited {
+	color: black;
+	text-decoration: none;
+  }
+  
+/* mouse over link */
+.header a:hover {
+	color: #7ABA96;
+	text-decoration: none;
+  }
+  
+/* selected link */
+.header a:active {
+	color: #4db67b;
+	text-decoration: none;
+  }
+
+.header hr {
+	height: 1px;
+	background-color:#8A8070;
+	border: none;
+	margin-top: 15px; 
+	margin-bottom: 15px;
+}
+
+p {
+    color: #8A8070;
+}
+
+div.receta {
+    width: 50%;
+    margin: 20px auto;
+    background-color: whitesmoke;
+    color: black;
+    padding: 15px;
+}
+
+div.receta img.izquierda {
+    float: left;
+    margin-right: 15px;
+}
+
+/* unvisited link */
+div a:link {
+	color: black;
+	text-decoration: none;
+  }
+  
+/* visited link */
+div a:visited {
+	color: black;
+	text-decoration: none;
+  }
+  
+/* mouse over link */
+div a:hover {
+	color: #8A8070;
+	text-decoration: none;
+  }
+  
+/* selected link */
+div a:active {
+	color: white;
+	text-decoration: none;
+  }
+
+.pagination {
+    margin: 20px 0;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+}
+
+/* Pagination links */
+.pagination a {
+    display: inline-block;
+    color: #8A8070;
+    text-align: center;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+
+  }
+  
+  /* Style the active/current link */
+.pagination a.active {
+    background-color: #7ABA96;
+    color: white;
+  }
+  
+  /* Add a grey background color on mouse-over */
+.pagination a:hover:not(.active) {background-color: #7ABA96;}
+
+footer {
+	height: 100px;
+	background: black;
+}
+
+
+.footer-list-inline {
+	list-style: none;
+	margin-left: -1em;
+	margin-right: -1em;
+	padding: 0;
+}
+
+.footer-list-inline > li {
+	display: inline-block;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+.footer-list-inline > li:before {
+	content: "\200B"; /* 1 */
+	position: absolute; /* 2 */
+}
+
+/* unvisited link */
+.footer a:link {
+	color: white;
+	text-decoration: none;
+  }
+  
+/* visited link */
+.footer a:visited {
+	color: white;
+	text-decoration: none;
+  }
+  
+/* mouse over link */
+.footer a:hover {
+	color: gray;
+	text-decoration: none;
+  }
+  
+/* selected link */
+.footer a:active {
+	color: white;
+	text-decoration: none;
+  }

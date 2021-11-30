@@ -1,2 +1,85 @@
-<h1>EN CONSTRUCCIÓ</h1>
-<p>Aquí anirà el formulari de contacte.<br>Per tornar enrere fes click <a href="../index.html">aquí.</a></p>
+<!DOCTYPE html>
+<!-- *****************************************************
+NOMBRE: Carlos
+APELLIDOS: Reina Carrascosa
+*********************************************************** -->
+<html>
+
+<head>
+	<meta charset="utf-8" />
+
+	<link rel="stylesheet" href="../css/form.css" />
+	<title>Formulario</title>
+</head>
+
+<body>
+  <header class="header">
+		<center><img src="../imagenes/Logo-Delicias.png"/></center>
+		<hr>
+		<nav class="topnav" id="myTopnav"></nav>
+		<center>
+			<u1 class="list-inline">
+				<li><a href="../index.html">INICIO</a></li>
+				<li><a href="../index.html#Sobre mi">SOBRE MI</a></li>
+				<li><a href="../listado/listado.html">RECETAS</a></li>
+				<li><a href="contacto.html">CONTACTO</a></li>
+				<li><a href="contacto.html">OTRAS COSAS</a></li>
+			</u1>
+		</center>
+		</nav>
+		<hr>
+	</header>
+
+    <div>
+      <center>
+        <h1>Formulario de contacto</h1>
+        <p>Si quieres darte de alta, dejarme un comentario o enseñarme una receta nueva, puedes usar este formulario.</p>
+      </center>
+    </div>
+    
+    <form method="get">
+        <ul>
+            <li>
+              <label for="name">Nombre:</label>
+              <input type="text" id="name" name="user_name">
+            </li>
+
+            <li>
+              <label for="mail">Mail:</label>
+              <input type="email" id="mail" name="user_email">
+            </li>
+            
+            <li>
+              <label for="gen">Género:</label>
+              <select id="gen" name="user_gen">
+                <option value="hombre">Hombre</option>
+                <option value="mujer">Mujer</option>
+                <option value="no">No especifica</option>
+              </select>
+            </li>
+
+            <li>
+              <label for="msg">Comentario (opcional):</label>
+              <textarea id="msg" name="user_message"></textarea>
+            </li>
+            <li class="button">
+                <button type="submit">Enviar</button>
+            </li>
+        </ul>
+    </form>
+
+    <footer class="footer">
+      <br>
+      <br>
+      <center><ul class="footer-list-inline">
+        <li><a href="https://www.facebook.com/" target="_blank">FACEBOOK</a></li>
+        <li><a href="https://www.twitter.com/" target="_blank">TWITTER</a></li>
+        <li><a href="https://www.instagram.com/" target="_blank">INSTAGRAM</a></li>
+        <li><a href="https://www.pinterest.com/" target="_blank">PINTEREST</a></li>
+        <li><a href="https://www.gmail.com/" target="_blank">EMAIL</a></li>
+        <li><a href="">RSS</a></li>
+      </center></ul>
+    </footer>
+  </body>
+
+</html>
