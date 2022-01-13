@@ -80,7 +80,7 @@
       <xsl:attribute name="height">70</xsl:attribute>
     </img>
     <div style="margin-left:20px;margin-bottom:1em;font-size:11pt">
-      <button onclick="myFunction()">Mostrar mas</button>
+      <button onclick="myFunction()">Mostrar más</button>
     </div>
     <div id="receta{position()}" style="display:none;margin-left:20px;margin-bottom:1em;font-size:11pt">
       <h2>Ingredientes</h2>
