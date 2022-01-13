@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../css/recetas.xslt"?>
+<recetas>
+  <header>
+    <imagen>../imagenes/Logo-Delicias.png</imagen>
+  </header>
+  <menu>
+    <menu1 link="../index.html">INICIO </menu1>
+    <menu2 link="../index.html#Sobre mi"> SOBRE MI </menu2>
+    <menu3 link="listado.xml"> RECETAS </menu3>
+    <menu4 link="../contacto/contacto.html"> CONTACTO </menu4>
+    <menu5 link="listado.xml"> OTRAS COSAS </menu5>
+  </menu>
+  <receta>
+    <nombre>Canelones caseros</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Receta de canelones caseros fáciles</descripcion>
+    <dificultad>Media</dificultad>
+    <tiempo>30 minutos</tiempo>
+    <imagen>../imagenes/canelones.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Espaguetis a la carbonara</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Espaguetis muy sencillos de preparar</descripcion>
+    <dificultad>Baja</dificultad>
+    <tiempo>30 minutos</tiempo>
+    <imagen>../imagenes/espaguetis.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Ensaladilla rusa</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Ensaladilla rusa con una dificultad media para dias cálidos</descripcion>
+    <dificultad>Media</dificultad>
+    <tiempo>1 hora</tiempo>
+    <imagen>../imagenes/ensaladilla.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Pasta con salsa de coliflor y pimienta de Jamaica</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Deliciosa pasta saludable y exótica con una textura cremosa e irresistible</descripcion>
+    <dificultad>Media</dificultad>
+    <tiempo>30 minutos / 1 hora</tiempo>
+    <imagen>../imagenes/Pasta.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Pastel de pasta</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Rico pastel para ocasiones especiales</descripcion>
+    <dificultad>Alta</dificultad>
+    <tiempo>1:15 horas</tiempo>
+    <imagen>../imagenes/pastel.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Masa de pizza</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Masa de pizza natural</descripcion>
+    <dificultad>Media</dificultad>
+    <tiempo>45 minutos</tiempo>
+    <imagen>../imagenes/masa.jpg</imagen><ingredientes></ingredientes>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Fideua</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Deliciosa fideua perfecta para comidas en familia</descripcion>
+    <dificultad>Media</dificultad>
+    <tiempo>1 hora</tiempo>
+    <imagen>../imagenes/fideua.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Calabacines rellenos de arroz negro y calabaza</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Calabacines rellenos con un sabor irresistible</descripcion>
+    <dificultad>Alta</dificultad>
+    <tiempo>1 hora</tiempo>
+    <imagen>../imagenes/calabacines.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Mijo cremoso con lentejas, hortalizas y shiitake</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Mijo suave y cálido perfecto para las cenas de invierno</descripcion>
+    <dificultad>Alta</dificultad>
+    <tiempo>1 hora / 1:30 horas</tiempo>
+    <imagen>../imagenes/mijo.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Macarrones con crema de champiñones</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Sencillos y deliciosos macarrones</descripcion>
+    <dificultad>Media</dificultad>
+    <tiempo>30 minutos</tiempo>
+    <imagen>../imagenes/macarrones.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Ñoquis de patata y espinacas</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Receta ideal para que los más pequeños de la casa disfruten del sabor y los nutrientes de las verduras</descripcion>
+    <dificultad>Media</dificultad>
+    <tiempo>35 minutos</tiempo>
+    <imagen>../imagenes/ñoquis.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Ensalada con guacamole</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Receta simple para una deliciosa ensalada</descripcion>
+    <dificultad>Fàcil</dificultad>
+    <tiempo>30</tiempo>
+    <imagen>../imagenes/ensalada.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Lacitos con pollo brócoli y pimiento rojo asado</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Buena receta saludable para tus hijos</descripcion>
+    <dificultad>Media</dificultad>
+    <tiempo>1 hora</tiempo>
+    <imagen>../imagenes/lacitos.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Gnocchis con aguacate pesto y tomate</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Gnocchis perfectos para cualquier época, aunque es ideal para verano</descripcion>
+    <dificultad>Media</dificultad>
+    <tiempo>30 minutos / 1 hora</tiempo>
+    <imagen>../imagenes/gnocchis.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Galletas de avena, rosa y lima</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Crujientes y fáciles de preparar</descripcion>
+    <dificultad>Baja</dificultad>
+    <tiempo>15 minutos</tiempo>
+    <imagen>../imagenes/galletas.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Ensaladilla de patata con mayonesa de limón y mostaza</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Apetitosa ensaladilla con un toque de limón</descripcion>
+    <dificultad>Baja</dificultad>
+    <tiempo>40 minutos</tiempo>
+    <imagen>../imagenes/ensaladilla_patata.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Patatas asadas</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Receta de patatas que se derriten en la boca</descripcion>
+    <dificultad>Baja</dificultad>
+    <tiempo>30 / 40 minutos</tiempo>
+    <imagen>../imagenes/patatas.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Lentejas estofadas sin grasas y cremosas</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Crujientes y fáciles de preparar</descripcion>
+    <dificultad>Fàcil</dificultad>
+    <tiempo>30 minutos</tiempo>
+    <imagen>../imagenes/lentejas.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Gratinado de puerros con jamón y queso</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Receta de puerros rápida, fácil y deliciosa</descripcion>
+    <dificultad>Baja</dificultad>
+    <tiempo>30 minutos</tiempo>
+    <imagen>../imagenes/puerros.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Tortilla de patatas vegana</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Receta sin huevo sorprendente</descripcion>
+    <dificultad>Media</dificultad>
+    <tiempo>45 minutos</tiempo>
+    <imagen>../imagenes/tortilla.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Lubina al horno con patatas</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Receta de lubina fácil y riquisima</descripcion>
+    <dificultad>Baja</dificultad>
+    <tiempo>50 minutos</tiempo>
+    <imagen>../imagenes/lubina.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Pollo con almendras estilo chino</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Receta de cocina china sencilla y buenísima</descripcion>
+    <dificultad>Baja</dificultad>
+    <tiempo>40 minutos</tiempo>
+    <imagen>../imagenes/pollo.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Risotto a los cuatro quesos</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Receta fácil para adaptarse a diferentes gustos</descripcion>
+    <dificultad>Baja</dificultad>
+    <tiempo>35 minutos</tiempo>
+    <imagen>../imagenes/risotto.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Flan de galletas en el microondas</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Receta de flan para tenerlo listo en unos 5 minutos</descripcion>
+    <dificultad>Baja</dificultad>
+    <tiempo>5 / 10 minutos</tiempo>
+    <imagen>../imagenes/flan.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Mini pavlovas con lemon curd y frutos del bosque</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Típica receta de postre para hacer a tus invitados</descripcion>
+    <dificultad>Baja</dificultad>
+    <tiempo>31 minutos</tiempo>
+    <imagen>../imagenes/mini.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Pastel de chocolate</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Receta de pastel de chocolate con solo 3 ingredientes</descripcion>
+    <dificultad>Media</dificultad>
+    <tiempo>40 minutos</tiempo>
+    <imagen>../imagenes/choco.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Lasaña de berenjena, tomate y cuatro quesos</nombre>
+    <autor>Carlos</autor>
+    <descripcion> Receta de lasaña perfecta para cuando no apetece comer carne</descripcion>
+    <dificultad>Media</dificultad>
+    <tiempo>55 minutos</tiempo>
+    <imagen>../imagenes/lasana.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Pollo al horno en cocotte o cazuela de hierro</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Receta para lograr un pollo asado perfecto de la forma más sencilla</descripcion>
+    <dificultad>Baja</dificultad>
+    <tiempo>2:50 horas</tiempo>
+    <imagen>../imagenes/cazuela.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Rodaballo al horno</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Receta de rodaballo muy completa con guarnición</descripcion>
+    <dificultad>Baja</dificultad>
+    <tiempo>1:20 horas</tiempo>
+    <imagen>../imagenes/roda.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+  <receta>
+    <nombre>Tofu a la mostaza con salteado de verduras garam masala</nombre>
+    <autor>Carlos</autor>
+    <descripcion>Plato muy rápido de preparar que además es nutricionalmente muy completo.</descripcion>
+    <dificultad>Baja</dificultad>
+    <tiempo>35 minutos</tiempo>
+    <imagen>../imagenes/tofu.jpg</imagen>
+    <ingredientes>
+      <ingrediente>18 placas de canelones</ingrediente>
+      <ingrediente>350 gr de ternera estofada.</ingrediente>
+      <ingrediente>200 gr de salchichas frescas.</ingrediente>
+      <ingrediente>100 gr de queso parmesano rallado.</ingrediente>
+      <ingrediente>1 dl de aceite de oliva.</ingrediente>
+      <ingrediente>2 cebollas.</ingrediente>
+      <ingrediente>2 dientes de ajo.</ingrediente>
+      <ingrediente>Miga de pan remojada en caldo.</ingrediente>
+      <ingrediente>1/8 de pastilla de caldo.</ingrediente>
+      <ingrediente>Salsa bechamel.</ingrediente>
+      <ingrediente>Salsa de tomate.</ingrediente>
+    </ingredientes>
+    <preparacion>
+      Picamos las cebollas y los ajos.
+
+      Trituramos el estofado.
+
+      En una cazuela doramos las cebollas y los ajos.
+
+      Añadimos la carne de las salchichas y el estofado.
+
+      Dejamos cocer 5 minutos removiendo hasta conseguir una masa homogenea.
+
+      Incorporamos 10 cucharadas de salsa de tomate, y la miga de pan en remojo del caldo, y 25 gr de parmesano.
+
+      Rellenamos los canelones.
+
+      Los colocamos sobre una fuente y los cubrimos con salsa bechamel espolvoreamos con el resto de queso.
+
+      Por ultimo gratinamos 10 minutos a 180º.
+    </preparacion>
+  </receta>
+</recetas>
